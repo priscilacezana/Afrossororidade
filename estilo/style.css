@@ -55,8 +55,11 @@ header {
     align-items: center;
 }
 
-.logo h1 {
-    color:#fff;
+.logo img {
+    width: 140px;
+    height: 120px;
+    border-radius: 50%;
+    border: 5px dotted rgba(202, 6, 6, 0.692);
 }
 
 .nav-list {
